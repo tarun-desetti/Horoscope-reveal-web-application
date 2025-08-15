@@ -3,10 +3,14 @@
 虇虈虉虊虋 Project Title: Find your horoscope
 괘괙괚괛궨궩궪궫궬 Aim:
 The aim of this project is to create a mini web application using HTML, CSS, and JavaScript.
+
 It allows users to enter their date of birth to determine their zodiac sign. Based on the zodiac
+
 sign, the app fetches and displays the daily horoscope. The application provides an interactive
+
 and user-friendly interface. It helps users stay informed about their daily astrological
 predictions.
+
 궍궎궏궐궑궒 Introduction:
 This mini project is a horoscope web application built using HTML, CSS, and JavaScript.
 It allows users to input their date of birth to identify their zodiac sign. Once the zodiac sign is
